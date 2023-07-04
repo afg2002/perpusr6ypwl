@@ -7,6 +7,10 @@ Tugas Pemrograman Web Lanjut tentang Perpustakaan Online Menggunakan PHP dan MyS
 ![Screenshot 68](https://github.com/afg2002/perpusr6ypwl/blob/main/preview_image/Screenshot%20(69).png?raw=true)
 ![Screenshot 61](https://github.com/afg2002/perpusr6ypwl/blob/main/preview_image/Screenshot%20(61).png?raw=true)
 ![Screenshot 63](https://github.com/afg2002/perpusr6ypwl/blob/main/preview_image/Screenshot%20(63).png?raw=true)
+![Screenshot 62](https://github.com/afg2002/perpusr6ypwl/blob/main/preview_image/Screenshot%20(62).png?raw=true)
+![Screenshot 64](https://github.com/afg2002/perpusr6ypwl/blob/main/preview_image/Screenshot%20(64).png?raw=true)
+![Screenshot 65](https://github.com/afg2002/perpusr6ypwl/blob/main/preview_image/Screenshot%20(65).png?raw=true)
+![Screenshot 63](https://github.com/afg2002/perpusr6ypwl/blob/main/preview_image/Screenshot%20(63).png?raw=true)
 
 
 
